@@ -45,4 +45,5 @@ Você nunca precisa usar `ejetar`. O conjunto de recursos selecionados é adequa
 
 # Autor
  ## `MATEUS GALDINO`
+ https://www.linkedin.com/in/mateus-galdino-55733016b/
  
