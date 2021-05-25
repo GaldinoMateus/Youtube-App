@@ -1,6 +1,9 @@
 # YouTube Clone
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
+# Objetivo
+O projeto teve como objetivo simular o sistema de buscas no youtube fazendo o uso da API do Youtube, nele você pode fazer pesquisas sobre vídeos e ver os vídeos como se tivesse no próprio YouTube
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
@@ -38,3 +41,7 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você nunca precisa usar `ejetar`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para ela.
 
+
+
+# Autor
+Mateus Galdino
