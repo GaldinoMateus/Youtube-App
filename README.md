@@ -4,6 +4,8 @@ Este projeto foi inicializado com [Create React App] (https://github.com/faceboo
 # Objetivo
 O projeto teve como objetivo simular o sistema de buscas no youtube fazendo o uso da API do Youtube, nele você pode fazer pesquisas sobre vídeos e ver os vídeos como se tivesse no próprio YouTube
 
+O objetivo principal do projeto era melhorar meus conhecimentos em ReactJS utilizando os Hooks fornecidos por ele, desta forma consegui refatorar meu codigo que antes era feito em classes e o transformei em arrow functions com uso de Hooks, no caso useState e useEffect
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
